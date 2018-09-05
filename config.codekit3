@@ -1211,9 +1211,9 @@
 	"creationDate": 556359035,
 	"displayValue": "bootstrap-codekit-starter",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-ceiling",
-	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 557741655
+	"iconImageName": "meme-ron",
+	"iconImageWasSetByUser": 1,
+	"lastBuiltDate": 557757573
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
