@@ -1184,7 +1184,7 @@
 	"\/source\/partials\/footer.kit": {
 		"cB": 0,
 		"ft": 2048,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/partials\/footer.html",
 		"oF": 0
 		},
