@@ -12,16 +12,16 @@
 	"\/.gitattributes": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/.gitattributes",
-		"oF": 0
+		"oF": 1
 		},
 	"\/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/.gitignore",
-		"oF": 0
+		"oF": 1
 		},
 	"\/dist": {
 		"ft": 65536,
@@ -32,9 +32,9 @@
 	"\/LICENSE": {
 		"cB": 0,
 		"ft": 8192,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/LICENSE",
-		"oF": 0
+		"oF": 1
 		},
 	"\/node_modules": {
 		"ft": 65536,
@@ -1115,9 +1115,9 @@
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/dist\/README.html",
-		"oF": 0,
+		"oF": 1,
 		"oFM": 0,
 		"oS": 0,
 		"pHT": 0,
