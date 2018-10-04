@@ -2,7 +2,10 @@
 
 Basic Bootstrap starter for CodeKit 
 
+Uses NPM
+
 Set up to use imported **header**, **footer** and **nav** using .kit
+
 
 ## Includes
 
@@ -10,3 +13,5 @@ Set up to use imported **header**, **footer** and **nav** using .kit
 - jquery
 - popper.js
 - animate.css
+- Font Awesome 5 free (CDN)
+
